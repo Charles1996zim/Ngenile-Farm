@@ -1,0 +1,13 @@
+name: Input-app
+title: Input-app
+username:
+account: ngenile
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7944443
+bundleId: 6674261
+url: https://ngenile.shinyapps.io/Input-app/
+when: 1672075721.57963
+lastSyncTime: 1672075721.57963
+asMultiple: FALSE
+asStatic: FALSE
